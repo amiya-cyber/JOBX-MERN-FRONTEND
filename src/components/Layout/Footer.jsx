@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { Context } from "../../main";
 import { Link } from "react-router-dom";
-import {FaGithub,FaYoutube, FaLinkedin } from "react-icons/fa";
+import {FaGithub, FaLinkedin } from "react-icons/fa";
 import { RiInstagramFill } from "react-icons/ri";
 
 const Footer = () => {
@@ -12,9 +12,6 @@ const Footer = () => {
       <div>
         <Link to={"https://github.com/amiya-cyber"} target="_blank">
           <FaGithub />
-        </Link>
-        <Link to={"https://www.youtube.com/@CodeWithZeeshu"} target="_blank">
-          <FaYoutube />
         </Link>
         <Link to={"http://linkedin.com/in/amiya-singh-33552232b"} target="_blank">
           <FaLinkedin />

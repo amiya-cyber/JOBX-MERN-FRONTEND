@@ -13,10 +13,10 @@ const Footer = () => {
         <Link to={"https://github.com/amiya-cyber"} target="_blank">
           <FaGithub />
         </Link>
-        <Link to={"http://linkedin.com/in/amiya-singh-33552232b"} target="_blank">
+        <Link to={"http://linkedin.com/in/gayatri-kadukar-09978727b"} target="_blank">
           <FaLinkedin />
         </Link>
-        <Link to={"https://www.instagram.com/heyyamiya/"} target="_blank">
+        <Link to={"https://www.instagram.com/gayatri_kadukar/"} target="_blank">
           <RiInstagramFill />
         </Link>
       </div>
